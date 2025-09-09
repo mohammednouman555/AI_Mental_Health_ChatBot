@@ -1,0 +1,8 @@
+nltk
+transformers
+torch
+flask
+flask-cors
+scikit-learn
+pandas
+
